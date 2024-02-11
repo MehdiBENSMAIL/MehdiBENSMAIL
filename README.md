@@ -1,9 +1,9 @@
 # Presentation
 Mehdi BEN SMAIL, 18 ans
 
-Étudiant en premiere annee de BUT informatique a l'IUT de Belfort
+Étudiant en premiere année de BUT (Bachelor Universitaire de Technologie) informatique a l'IUT Nord Franche-Comté (Belfort).
 
-Langues connues : Francais, Anglais, Espagnol
+Langues connues : Français, Anglais C1 (Cambridge), Espagnol B2
  
 **Langages etudies :**
 | Langage  |  Niveau  |
