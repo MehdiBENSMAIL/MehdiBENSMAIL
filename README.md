@@ -1,27 +1,39 @@
 # Presentation
-Mehdi BEN SMAIL, 2005
+Mehdi BEN SMAIL, 18 ans
 
-Etudiant en premiere annee de BUT informatique a l'IUT de Belfort
+Étudiant en premiere annee de BUT informatique a l'IUT de Belfort
 
-Langues connues : Francais, Anglais
+Langues connues : Francais, Anglais, Espagnol
  
 **Langages etudies :**
 | Langage  |  Niveau  |
 |----------|----------|
-|   Java   |    Deb   |
+|   Java   |   Inter  |
 |  Python  |   Inter  |
-|   Bash   |    Deb   |
-| HTML/CSS |    Deb   |
-|   SQL    |    Deb   |
-|    C     |     -    |
-|   AJAX   |     -    |
+|   Bash   |   Inter  |
+| HTML/CSS |   Inter  |
+|   SQL    |   Inter  |
+|    C     |    Deb   |
+|   AJAX   |    Deb   |
 |    MD    |   Inter  |
 
+**Frameworks utilises :**
+* Flask
+
 **Logiciels utilises :**
-> a titre personnel
+> a titre personnel/professionnel
 
 |     Outil    |  Niveau  |
 |--------------|----------|
+|  LibreOffice |   Inter  |
 |   Audacity   |    Deb   |
 | Vegas Pro 13 |   Inter  |
 |     GIMP     |   Inter  |
+|   VSCodium   |   Inter  |
+
+**Projets personnels :**
+* Développement d'un site web destiné à un usage personnel hébergé sur une machine fonctionnant avec Ubuntu Server et utilisation d'un nom de domaine pour y accéder plus facilement. Ce projet me permet d'apprendre à structurer un site internet, à gérer des nombreux problèmes ainsi que d'apprendre à utiliser de nombreux outils populaires tels que Docker, Nginx, MySQL, Jenkins, Git, MySQL, le module Cryptography de Python etc.
+
+**Objectifs :**
+* Développer un sens critique et d'analyse des algorithmes/programmes qui me permettra de trouver des solutions efficaces aux probèmes rencontrés
+* Suivre des bonnes pratiques de programmation pour fournir un code de qualité et facilement exploitable/modifiable par d'autres personnes
