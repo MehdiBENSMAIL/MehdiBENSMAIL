@@ -6,33 +6,30 @@ Mehdi BEN SMAIL, 18 ans
 Langues connues : Français, Anglais C1 (Cambridge), Espagnol B2
  
 **Langages etudies :**
-| Langage  |  Niveau  |
-|----------|----------|
-|   Java   |   Inter  |
-|  Python  |   Inter  |
-|   Bash   |   Inter  |
-| HTML/CSS |   Inter  |
-|   SQL    |   Inter  |
-|    C     |    Deb   |
-|   AJAX   |    Deb   |
-|    MD    |   Inter  |
-
-**Frameworks utilises :**
-* Flask
+| Langage  |
+|----------|
+|   Java   |
+|  Python  |
+|   Bash   |
+| HTML/CSS |     
+|   SQL    |
+|    C     |
+|   AJAX   |
+|    MD    |
 
 **Logiciels utilises :**
 > a titre personnel/professionnel
 
-|     Outil    |  Niveau  |
-|--------------|----------|
-|  LibreOffice |   Inter  |
-|   Audacity   |    Deb   |
-| Vegas Pro 13 |   Inter  |
-|     GIMP     |   Inter  |
-|   VSCodium   |   Inter  |
+|     Outils    |
+|--------------|
+|  LibreOffice |
+|   Audacity   |
+| Vegas Pro 13 |
+|     GIMP     |
+|   VSCodium   |
 
 **Projets personnels :**
-* Développement d'un site web destiné à un usage personnel hébergé sur une machine fonctionnant avec Ubuntu Server et utilisation d'un nom de domaine pour y accéder plus facilement. Ce projet me permet d'apprendre à structurer un site internet, à gérer des nombreux problèmes ainsi que d'apprendre à utiliser de nombreux outils populaires tels que Docker, Nginx, MySQL, Jenkins, Git, MySQL, le module Cryptography de Python etc.
+* Développement d'un site web destiné à un usage personnel hébergé sur une machine fonctionnant avec Ubuntu Server et utilisation d'un nom de domaine pour y accéder plus facilement. Ce projet me permet d'apprendre à structurer un site internet, à gérer des nombreux problèmes ainsi que d'apprendre à utiliser de nombreux outils populaires tels que Docker, Nginx, MySQL, Jenkins, Git, MySQL, des modules cryptographiques etc.
 
 **Objectifs :**
 * Développer un sens critique et d'analyse des algorithmes/programmes qui me permettra de trouver des solutions efficaces aux probèmes rencontrés
